@@ -1,2 +1,1 @@
-# node-server
-duno what 
+attempt to make a server with nodejs 
